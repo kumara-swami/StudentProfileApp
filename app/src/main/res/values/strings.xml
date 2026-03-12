@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Student Profile</string>
+    <string name="student_name">John Doe</string>
+    <string name="student_roll_no">Roll M: 123456789</string>
+    <string name="student_course">Course: B.Tech Computer Science</string>
+    <string name="student_email">Email: johndoe@example.com</string>
+    <string name="btn_show_details">Show Details</string>
+    <string name="toast_message">Profile Details Loaded Successfully!</string>
+</resources>
